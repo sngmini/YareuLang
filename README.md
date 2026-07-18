@@ -53,7 +53,7 @@ Notice
 
      ( 부디 가상환경에 설치하시길 바랍니다 )
   
-  3. ```yareu example.yr``` 명령어로 예제 코드를 실행해볼 수 있습니다.
+  3. ```yareu example.yr```, ```yareu gugudan.yr``` 명령어로 예제 코드를 실행해볼 수 있습니다.
   4. 첨부된 **generator.py**로 입력한 Text를 코드로 자동 변환 & 제작해보실 수 있습니다.
      
      ( ```python generator.py``` 명령어로 실행 )
